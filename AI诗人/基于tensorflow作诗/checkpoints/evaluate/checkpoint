@@ -1,0 +1,6 @@
+model_checkpoint_path: "poetryTang-5999"
+all_model_checkpoint_paths: "poetryTang-1999"
+all_model_checkpoint_paths: "poetryTang-2999"
+all_model_checkpoint_paths: "poetryTang-3999"
+all_model_checkpoint_paths: "poetryTang-4999"
+all_model_checkpoint_paths: "poetryTang-5999"
