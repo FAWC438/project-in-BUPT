@@ -3,7 +3,7 @@ import re
 import pinyin
 
 conn = sqlite3.connect(
-    'C:/Users/qq185/OneDrive - bupt.edu.cn/python/AI璇椾汉-2018211604-2018213344-鍑屽浗鐎�/鍩轰簬tensorflow浣滆瘲/dataset/shi.db')
+    '/dataset/shi.db')
 c = conn.cursor()
 print("Opened database successfully")
 
