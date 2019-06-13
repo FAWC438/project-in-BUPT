@@ -4,7 +4,7 @@ from aip import AipNlp
 import random
 import time
 
-APP_ID = '15397946'
+APP_ID = ''
 API_KEY = ''# 密码
 SECRET_KEY = ''# ……另一个密码
 
