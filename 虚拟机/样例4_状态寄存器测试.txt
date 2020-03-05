@@ -1,0 +1,16 @@
+起始地址：1
+内存建议大小：20
+请将以下代码复制黏贴到test.txt
+STOP
+CLA
+ADD 12
+ADD 13
+STA 15
+CLA
+STA 16
+JMP 9
+
+
+
+999999
+1
