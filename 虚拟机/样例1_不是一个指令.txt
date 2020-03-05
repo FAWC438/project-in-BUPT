@@ -1,0 +1,15 @@
+PC起始地址：1
+内存建议大小：20
+请将以下代码复制黏贴到test.txt
+CLA
+ADD 12
+NOP
+STOP
+STA 15
+JMP 9
+
+
+
+
+
+06
