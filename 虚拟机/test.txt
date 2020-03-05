@@ -1,0 +1,12 @@
+CLA
+ADD 12
+NOP
+STOP
+STA 15
+JMP 9
+
+
+
+
+
+06
